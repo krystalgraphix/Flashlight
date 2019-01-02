@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "282488316016",
+    "firebase_url": "https://torch-01.firebaseio.com",
+    "project_id": "torch-01",
+    "storage_bucket": "torch-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282488316016:android:f8a264aa92f38e51",
+        "android_client_info": {
+          "package_name": "com.krystalgraphix.torch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282488316016-enl7pr9fb22sfv1heck0i5r22i4v5n66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOZ-0-o-ymgV9dbCM5yKXkLBVhvkWSEQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

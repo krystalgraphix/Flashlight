@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Torch</string>
+    <string name="f_on">ON</string>
+    <string name="f_off">OFF</string>
+</resources>
